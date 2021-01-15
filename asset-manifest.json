@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/hyper_movie_app/static/css/main.05aa0427.chunk.css",
-    "main.js": "/hyper_movie_app/static/js/main.e894ae4f.chunk.js",
-    "main.js.map": "/hyper_movie_app/static/js/main.e894ae4f.chunk.js.map",
+    "main.js": "/hyper_movie_app/static/js/main.7d0bd86a.chunk.js",
+    "main.js.map": "/hyper_movie_app/static/js/main.7d0bd86a.chunk.js.map",
     "runtime-main.js": "/hyper_movie_app/static/js/runtime-main.83fad7e3.js",
     "runtime-main.js.map": "/hyper_movie_app/static/js/runtime-main.83fad7e3.js.map",
     "static/js/2.6cba4827.chunk.js": "/hyper_movie_app/static/js/2.6cba4827.chunk.js",
@@ -15,6 +15,6 @@
     "static/js/runtime-main.83fad7e3.js",
     "static/js/2.6cba4827.chunk.js",
     "static/css/main.05aa0427.chunk.css",
-    "static/js/main.e894ae4f.chunk.js"
+    "static/js/main.7d0bd86a.chunk.js"
   ]
 }
